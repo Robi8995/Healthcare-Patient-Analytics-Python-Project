@@ -427,20 +427,6 @@ Top 5 months with highest patient visits:
 
 ---
 
-## 💼 Business Impact
-
-✅ **Resource Optimization:** Predict patient stay duration to optimize bed allocation and staffing
-
-✅ **Risk Identification:** Segment patients by comorbidity burden for targeted interventions
-
-✅ **Operational Efficiency:** Identify temporal patterns for capacity planning and scheduling
-
-✅ **Cost Management:** Understand factors driving longer stays to reduce operational costs
-
-✅ **Clinical Insights:** Data-driven patient segmentation for clinical decision-making
-
----
-
 ## 📊 Visualization Guide
 
 | Visualization | Purpose | Key Insight |
