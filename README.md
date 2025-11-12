@@ -20,7 +20,6 @@ A comprehensive Python-based exploratory data analysis (EDA) project analyzing h
 - [Installation & Prerequisites](#installation--prerequisites)
 - [How to Use](#how-to-use)
 - [Key Findings](#key-findings)
-- [Business Impact](#business-impact)
 - [Visualization Guide](#visualization-guide)
 - [Learning Outcomes](#learning-outcomes)
 - [Tech Stack](#tech-stack)
